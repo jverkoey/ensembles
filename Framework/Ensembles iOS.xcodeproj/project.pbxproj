@@ -135,12 +135,12 @@
 /* End PBXCopyFilesBuildPhase section */
 
 /* Begin PBXFileReference section */
-		0701770118C1EC4B00C4DA01 /* CDEFileDownloadOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDEFileDownloadOperation.h; path = "Source/Cloud File Systems/CDEFileDownloadOperation.h"; sourceTree = SOURCE_ROOT; };
-		0701770218C1EC4B00C4DA01 /* CDEFileDownloadOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDEFileDownloadOperation.m; path = "Source/Cloud File Systems/CDEFileDownloadOperation.m"; sourceTree = SOURCE_ROOT; };
+		0701770118C1EC4B00C4DA01 /* CDEFileDownloadOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDEFileDownloadOperation.h; sourceTree = "<group>"; };
+		0701770218C1EC4B00C4DA01 /* CDEFileDownloadOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDEFileDownloadOperation.m; sourceTree = "<group>"; };
 		0701770418C1EDE700C4DA01 /* CDEAsynchronousOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDEAsynchronousOperation.h; sourceTree = "<group>"; };
 		0701770518C1EDE700C4DA01 /* CDEAsynchronousOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDEAsynchronousOperation.m; sourceTree = "<group>"; };
-		0701771318C25F2A00C4DA01 /* CDEFileUploadOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDEFileUploadOperation.h; path = "Source/Cloud File Systems/CDEFileUploadOperation.h"; sourceTree = SOURCE_ROOT; };
-		0701771418C25F2A00C4DA01 /* CDEFileUploadOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDEFileUploadOperation.m; path = "Source/Cloud File Systems/CDEFileUploadOperation.m"; sourceTree = SOURCE_ROOT; };
+		0701771318C25F2A00C4DA01 /* CDEFileUploadOperation.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDEFileUploadOperation.h; sourceTree = "<group>"; };
+		0701771418C25F2A00C4DA01 /* CDEFileUploadOperation.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDEFileUploadOperation.m; sourceTree = "<group>"; };
 		070D336118018A960054BA23 /* Tests iOS.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Tests iOS.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		070D336218018A960054BA23 /* XCTest.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = XCTest.framework; path = Library/Frameworks/XCTest.framework; sourceTree = DEVELOPER_DIR; };
 		070D337618018AAD0054BA23 /* CDEBasicIntegratorRelationshipTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDEBasicIntegratorRelationshipTests.m; sourceTree = "<group>"; };
@@ -195,10 +195,10 @@
 		075FDCE1183628F90020E1C9 /* CDEMockLocalFileSystem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDEMockLocalFileSystem.m; sourceTree = "<group>"; };
 		075FDCE2183628F90020E1C9 /* CDEPersistentStoreEnsembleMergeTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDEPersistentStoreEnsembleMergeTests.m; sourceTree = "<group>"; };
 		075FDCE4183628F90020E1C9 /* CDEStoreModificationEventTestsModel.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CDEStoreModificationEventTestsModel.xcdatamodel; sourceTree = "<group>"; };
-		07973EFA183BE40A007F48CA /* CDEICloudFileSystem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDEICloudFileSystem.h; path = "Source/Cloud File Systems/CDEICloudFileSystem.h"; sourceTree = SOURCE_ROOT; };
-		07973EFB183BE40A007F48CA /* CDEICloudFileSystem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDEICloudFileSystem.m; path = "Source/Cloud File Systems/CDEICloudFileSystem.m"; sourceTree = SOURCE_ROOT; };
-		07973EFC183BE40A007F48CA /* CDELocalCloudFileSystem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = CDELocalCloudFileSystem.h; path = "Source/Cloud File Systems/CDELocalCloudFileSystem.h"; sourceTree = SOURCE_ROOT; };
-		07973EFD183BE40A007F48CA /* CDELocalCloudFileSystem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = CDELocalCloudFileSystem.m; path = "Source/Cloud File Systems/CDELocalCloudFileSystem.m"; sourceTree = SOURCE_ROOT; };
+		07973EFA183BE40A007F48CA /* CDEICloudFileSystem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDEICloudFileSystem.h; sourceTree = "<group>"; };
+		07973EFB183BE40A007F48CA /* CDEICloudFileSystem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDEICloudFileSystem.m; sourceTree = "<group>"; };
+		07973EFC183BE40A007F48CA /* CDELocalCloudFileSystem.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDELocalCloudFileSystem.h; sourceTree = "<group>"; };
+		07973EFD183BE40A007F48CA /* CDELocalCloudFileSystem.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDELocalCloudFileSystem.m; sourceTree = "<group>"; };
 		07ABB5A118B245CF006FC638 /* CDEEventStoreModel_2.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = CDEEventStoreModel_2.xcdatamodel; sourceTree = "<group>"; };
 		07ABB5A218B24A6B006FC638 /* CDEDataFile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDEDataFile.h; sourceTree = "<group>"; };
 		07ABB5A318B24A6B006FC638 /* CDEDataFile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDEDataFile.m; sourceTree = "<group>"; };
@@ -263,6 +263,7 @@
 		07D2D63F182D6887001D24BC /* CDEManagedObjectModelTests.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = CDEManagedObjectModelTests.m; sourceTree = "<group>"; };
 		07F001BD18427645001A0504 /* IntegratorMergeTestsFixture.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = IntegratorMergeTestsFixture.json; sourceTree = "<group>"; };
 		34700E9D188B225700FD00B1 /* CDEAvailabilityMacros.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = CDEAvailabilityMacros.h; sourceTree = "<group>"; };
+		66D881B518FBDEE30093CFA8 /* Ensembles.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = Ensembles.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -429,6 +430,7 @@
 		07BF374A17F184DD00C56F64 /* Source */ = {
 			isa = PBXGroup;
 			children = (
+				66D881B518FBDEE30093CFA8 /* Ensembles.h */,
 				07BF378E17F1853000C56F64 /* General */,
 				07BF37C417F1854F00C56F64 /* Cloud File Systems */,
 				07BF376E17F1853000C56F64 /* Cloud */,
@@ -438,8 +440,7 @@
 				07BF37A317F1853000C56F64 /* Revisioning */,
 				07D183FA1892824200E89B89 /* Baselines */,
 			);
-			name = Source;
-			path = "Ensembles iOS";
+			path = Source;
 			sourceTree = "<group>";
 		};
 		07BF374B17F184DD00C56F64 /* Supporting Files */ = {
@@ -461,9 +462,8 @@
 				07BF377417F1853000C56F64 /* CDECloudManager.h */,
 				07BF377517F1853000C56F64 /* CDECloudManager.m */,
 			);
-			name = Cloud;
-			path = Source/Cloud;
-			sourceTree = SOURCE_ROOT;
+			path = Cloud;
+			sourceTree = "<group>";
 		};
 		07BF377C17F1853000C56F64 /* Ensemble */ = {
 			isa = PBXGroup;
@@ -473,9 +473,8 @@
 				07BF377F17F1853000C56F64 /* CDEPersistentStoreImporter.h */,
 				07BF378017F1853000C56F64 /* CDEPersistentStoreImporter.m */,
 			);
-			name = Ensemble;
-			path = Source/Ensemble;
-			sourceTree = SOURCE_ROOT;
+			path = Ensemble;
+			sourceTree = "<group>";
 		};
 		07BF378117F1853000C56F64 /* Events */ = {
 			isa = PBXGroup;
@@ -493,9 +492,8 @@
 				07BF378C17F1853000C56F64 /* CDESaveMonitor.h */,
 				07BF378D17F1853000C56F64 /* CDESaveMonitor.m */,
 			);
-			name = Events;
-			path = Source/Events;
-			sourceTree = SOURCE_ROOT;
+			path = Events;
+			sourceTree = "<group>";
 		};
 		07BF378E17F1853000C56F64 /* General */ = {
 			isa = PBXGroup;
@@ -515,9 +513,8 @@
 				0701770418C1EDE700C4DA01 /* CDEAsynchronousOperation.h */,
 				0701770518C1EDE700C4DA01 /* CDEAsynchronousOperation.m */,
 			);
-			name = General;
-			path = Source/General;
-			sourceTree = SOURCE_ROOT;
+			path = General;
+			sourceTree = "<group>";
 		};
 		07BF379817F1853000C56F64 /* Model */ = {
 			isa = PBXGroup;
@@ -534,9 +531,8 @@
 				07ABB5A218B24A6B006FC638 /* CDEDataFile.h */,
 				07ABB5A318B24A6B006FC638 /* CDEDataFile.m */,
 			);
-			name = Model;
-			path = Source/Model;
-			sourceTree = SOURCE_ROOT;
+			path = Model;
+			sourceTree = "<group>";
 		};
 		07BF37A317F1853000C56F64 /* Revisioning */ = {
 			isa = PBXGroup;
@@ -548,9 +544,8 @@
 				07BF37A817F1853000C56F64 /* CDERevisionSet.h */,
 				07BF37A917F1853000C56F64 /* CDERevisionSet.m */,
 			);
-			name = Revisioning;
-			path = Source/Revisioning;
-			sourceTree = SOURCE_ROOT;
+			path = Revisioning;
+			sourceTree = "<group>";
 		};
 		07BF37C417F1854F00C56F64 /* Cloud File Systems */ = {
 			isa = PBXGroup;
@@ -565,7 +560,7 @@
 				0701771418C25F2A00C4DA01 /* CDEFileUploadOperation.m */,
 			);
 			path = "Cloud File Systems";
-			sourceTree = SOURCE_ROOT;
+			sourceTree = "<group>";
 		};
 		07D183FA1892824200E89B89 /* Baselines */ = {
 			isa = PBXGroup;
@@ -575,9 +570,8 @@
 				07D183FD1892824200E89B89 /* CDERebaser.h */,
 				07D183FE1892824200E89B89 /* CDERebaser.m */,
 			);
-			name = Baselines;
-			path = Source/Baselines;
-			sourceTree = SOURCE_ROOT;
+			path = Baselines;
+			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
 
